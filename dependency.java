@@ -3,6 +3,8 @@ public static void main(String args[])
 	//Program started
 	System.out.println("start");
 	
+	e.printStackTrace();
+	
 	while(true){
 		System.out.println("looping");
 	}
@@ -16,6 +18,7 @@ public static void main(String args[])
 	while(true){
 		System.out.println("looping");
 	}
-		
+	logger.info("stack");	
+	
 	f.printStackTrace();
 }

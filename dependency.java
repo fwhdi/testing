@@ -11,6 +11,8 @@ public static void main(String args[])
 	this part 
 	*/
 	
+	System.out.println("between the loops");
+	
 	while(true){
 		System.out.println("looping");
 	}
